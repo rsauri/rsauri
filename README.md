@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on memorizing git and linux commands coz no matter how much I try I can't go away from using up and down arrow keys
+
+⚡ Fun fact: I watch the whole Twilight collection everytime it is shown in Netflix.. more than 10x now
