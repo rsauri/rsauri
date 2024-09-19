@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
+### About me
 
 🔭 I’m currently working on memorizing git and linux commands coz no matter how much I try I can't go away from using up and down arrow keys
 
