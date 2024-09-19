@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on memorizing git and linux commands coz no matter how much I try I can't go away from using up and down arrow keys
+📫 How to reach me: You have my phone number or my social media accounts
 
 ⚡ Fun fact: I watch the whole Twilight collection everytime it is shown in Netflix.. more than 10x now
